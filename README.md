@@ -8,7 +8,7 @@
   </tr>
    <tr>
      <td><img src="https://1.bp.blogspot.com/-JGCVzibr-j4/YQYxVeteI3I/AAAAAAAABDc/MCRCSgBjIAAYFF8X7ZsLhftgqa6YPvhBwCLcBGAsYHQ/s800/mmo1.gif" /></td>
-      <td><img src="https://i.pinimg.com/originals/44/d8/50/44d850794ff1968ca0b53cdafedf173c.gif" /></td>
+      <td><img src="https://1.bp.blogspot.com/-85mETXG1z90/YQYuiidcqII/AAAAAAAABDI/_Da6zofxdqIZwTKyqcr6v9ptUrnyHJW-QCLcBGAsYHQ/s500/diy.gif" /></td>
   </tr>
 </table>
 
@@ -16,7 +16,7 @@
 - Website: [LamJang Official](https://www.lamjang.com)
 - Facebook: [LamJang Official](https://www.facebook.com/LamJang.com)
 - Youtube: [LamJang Official](https://www.youtube.com)
-- Email: [vn.nguyenduchoang@gmail.com](mailto:vn.nguyenduchoang@gmail.com)
+- Email: [lamjang.official@gmail.com](mailto:lamjang.official@gmail.com)
 
 
 ### Ngoài du lịch - phượt, xe cộ,.. LamJang cũng rất quan tâm đến lĩnh vực CNTT
@@ -33,19 +33,3 @@
   <td width="50%"><img alt="gif" align="right" src="https://1.bp.blogspot.com/-SIjPOdQgC0I/YQYx-CY_LgI/AAAAAAAABDk/pBWOFEo-vBojVwc6f1fl8nm907xeQn2QwCLcBGAsYHQ/s800/code.gif"/></td>
 </tr>
 <table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
