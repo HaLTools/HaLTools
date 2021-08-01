@@ -8,7 +8,7 @@
   </tr>
    <tr>
      <td><img src="https://1.bp.blogspot.com/-JGCVzibr-j4/YQYxVeteI3I/AAAAAAAABDc/MCRCSgBjIAAYFF8X7ZsLhftgqa6YPvhBwCLcBGAsYHQ/s800/mmo1.gif" /></td>
-      <td><img src="https://1.bp.blogspot.com/-Horw9Fmj248/YQY0_zD8zOI/AAAAAAAABDs/OD_M__jwDsEvYK6npWKJNbIF6sCyreqlQCLcBGAsYHQ/s800/idea.gif" /></td>
+      <td><img src="https://i.pinimg.com/originals/44/d8/50/44d850794ff1968ca0b53cdafedf173c.gif" /></td>
   </tr>
 </table>
 
