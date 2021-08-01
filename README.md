@@ -16,7 +16,7 @@
 - Website: [LamJang Official](https://www.lamjang.com)
 - Facebook: [LamJang Official](https://www.facebook.com/LamJang.com)
 - Youtube: [LamJang Official](https://www.youtube.com)
-- Email: [LamJang Official](lamjang.official@gmail.com)
+- Email: [lamjang.official@gmail.com](lamjang.official@gmail.com)
 
 
 ### Ngoài du lịch - phượt, xe cộ,.. LamJang cũng rất quan tâm đến lĩnh vực CNTT
@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=HaLTools&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaLTools&langs_count=8)](https://github.com/HaLTools/github-readme-stats" />
   </td>
-  <td width="50%"><img alt="gif" align="right" src="https://1.bp.blogspot.com/-Zhd5pevxL8U/YQYat8wJHXI/AAAAAAAABC4/v1WfpFBdEx8ovv4IaZfA652fte0wOlMHACLcBGAsYHQ/s800/a.gif"/></td>
+  <td width="50%"><img alt="gif" align="right" src="https://1.bp.blogspot.com/-SIjPOdQgC0I/YQYx-CY_LgI/AAAAAAAABDk/pBWOFEo-vBojVwc6f1fl8nm907xeQn2QwCLcBGAsYHQ/s800/code.gif"/></td>
 </tr>
 <table>
 
