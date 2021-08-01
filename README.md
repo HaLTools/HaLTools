@@ -4,11 +4,11 @@
 
 ### :zap: GitHub Stats
 <table>
-<tr>
-  <td width="48%", style = 'center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src="https://1.bp.blogspot.com/-Zhd5pevxL8U/YQYat8wJHXI/AAAAAAAABC4/v1WfpFBdEx8ovv4IaZfA652fte0wOlMHACLcBGAsYHQ/s800/a.gif"/></td>
-</tr>
-<table>
+   <tr>
+      <td><img src="https://1.bp.blogspot.com/-ImPFclfQGtw/YQYuii7UPvI/AAAAAAAABDA/DRyB1qT1pUks_BxGgfcj3dS4CZjvmo2LACLcBGAsYHQ/s800/travel.gif" /></td>
+      <td><img src="https://1.bp.blogspot.com/-LyvyvZ3SpeU/YQYuitEH-dI/AAAAAAAABDE/-GtLdbuXQREYHHYOjez2fKbodXhBmU5qACLcBGAsYHQ/s800/bike.gif" /></td>
+  </tr>
+   <tr>
+      <td><img src="https://1.bp.blogspot.com/-85mETXG1z90/YQYuiidcqII/AAAAAAAABDI/_Da6zofxdqIZwTKyqcr6v9ptUrnyHJW-QCLcBGAsYHQ/s500/diy.gif" /></td>
+  </tr>
+</table>
