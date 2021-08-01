@@ -16,7 +16,7 @@
 - Website: [LamJang Official](https://www.lamjang.com)
 - Facebook: [LamJang Official](https://www.facebook.com/LamJang.com)
 - Youtube: [LamJang Official](https://www.youtube.com)
-- Email: [LamJang Official](vn.nguyenduchoang@gmail.com)
+- Email: [vn.nguyenduchoang@gmail.com](vn.nguyenduchoang@gmail.com)
 
 
 ### Ngoài du lịch - phượt, xe cộ,.. LamJang cũng rất quan tâm đến lĩnh vực CNTT
