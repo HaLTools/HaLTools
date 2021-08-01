@@ -13,7 +13,7 @@
 </table>
 
 ### Các bạn có thể theo dõi và liên hệ với LamJang qua các kênh mạng xã hội ở dưới:
-- Website: [LamJang Official](https://www.lamjang.com){:target='_blank'}
+- Website: <a href="http://www.lamjang.com" target="_blank">LamJang Official</a>
 - Facebook: [LamJang Official](https://www.facebook.com/LamJang.com)
 - Youtube: [LamJang Official](https://www.youtube.com)
 - Email: [lamjang.official@gmail.com](mailto:lamjang.official@gmail.com)
